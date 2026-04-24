@@ -13,6 +13,6 @@ public class MoleculeData : ScriptableObject
 
     public BondType bondType;
 
-    public GameObject moleculePrefab;
+    public Molecule moleculePrefab;
     public AudioClip successSound;
 }
